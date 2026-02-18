@@ -1,0 +1,5 @@
+groq>=1.0.0
+pydantic>=2.12.5
+pymupdf>=1.25.3
+python-dotenv>=1.2.1
+langchain-groq>=0.1.0
